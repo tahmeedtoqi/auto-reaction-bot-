@@ -138,7 +138,7 @@ This command will deploy your bot to Cloudflare Workers, now you must [Configure
 
 ## 🎯 Credits and Other
 - Based on [Telegram BOT API](https://core.telegram.org/bots/api)
-- 🧑‍💻 Built with 💖 by [Single Developers </> ](https://t.me/SingleDevelopers)
+- 🧑‍💻 Built with 💖 by [Tahmeed Thoky ](tahmeedtoqi123@gmail.com)
 
 ## ⚖️ License
 And of course:
